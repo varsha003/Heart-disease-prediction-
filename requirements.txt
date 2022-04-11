@@ -1,3 +1,4 @@
+Cython>=0.28.5
 scikit-learn==0.22.1
 pandas>=0.19
 streamlit
